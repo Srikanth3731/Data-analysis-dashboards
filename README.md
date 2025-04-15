@@ -14,3 +14,5 @@ This project involves the development and deployment of an interactive Power BI 
 - Which regions or products are performing better?	
 - What is the LBS % and what does it indicate?	
 - Is the cost vs. profit trend sustainable?	
+
+- Dashboard Intteraction <a href="https://github.com/Srikanth3731/Data-analysis-dashboards/blob/main/Screenshot%202025-04-15%20232855.png">View Dashboard</a>
