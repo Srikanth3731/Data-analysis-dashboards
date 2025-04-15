@@ -18,12 +18,12 @@ This project involves the development and deployment of an interactive Power BI 
 - Dashboard Interaction <a href="https://github.com/Srikanth3731/Data-analysis-dashboards/blob/main/Screenshot%202025-04-15%20232855.png">View Dashboard</a>
 
 ## Process Steps:
--Collected sales, shipment, and cost data from internal systems.
--Cleaned and transformed the data for consistency and accuracy.
--Created data models and relationships in Power BI.
--Defined KPIs using DAX (e.g., Profit %, LBS %, MoM change).
--Designed interactive visuals and filters for dynamic analysis.
--Published the dashboard to share insights with stakeholders.
+- Collected sales, shipment, and cost data from internal systems.
+- Cleaned and transformed the data for consistency and accuracy.
+- Created data models and relationships in Power BI.
+- Defined KPIs using DAX (e.g., Profit %, LBS %, MoM change).
+- Designed interactive visuals and filters for dynamic analysis.
+- Published the dashboard to share insights with stakeholders.
 
 ## Dashboard
 ![Screenshot 2025-04-15 232855](https://github.com/user-attachments/assets/6e976412-0468-4a5e-afec-73b57ab45641)
