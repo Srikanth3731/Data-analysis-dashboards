@@ -28,6 +28,15 @@ This project involves the development and deployment of an interactive Power BI 
 ## Dashboard
 ![Screenshot 2025-04-15 232855](https://github.com/user-attachments/assets/6e976412-0468-4a5e-afec-73b57ab45641)
 
+## Project Insights 
+- The company generated $34M in total sales, with $21M in profit, and a profit margin of 60.3%.
+- Sales dropped by 10.76% month-over-month, indicating a need to investigate potential seasonal or operational factors.
+- 2M boxes were sold and 6K shipments were made, with shipment efficiency showing at 10.2%.
+- Camilla Castle leads in both sales and profit contribution with the highest LBS % (11.9%).
+- Dotty Strutley has the highest profit percentage (67.2%), indicating high efficiency in her sales.
+- The shipment volume shows a decreasing trend, suggesting potential for optimization or changing demand patterns.
+- Monthly box sales saw fluctuations, with peaks in mid-2023 and a dip in early 2024.
+
 ## Conclusion:
 The Power BI dashboard successfully centralizes key business metrics, enabling real-time tracking of sales performance, profit margins, and shipment efficiency. It empowers stakeholders to identify top performers, spot operational issues, and make informed decisions. Overall, the solution enhances business visibility and supports data-driven strategies for growth.
 
